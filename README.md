@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @5amsiva
+- 👀 I’m interested in Machine learning 
+- 🌱 I’m currently learning AIML
